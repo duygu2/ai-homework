@@ -14,9 +14,13 @@
 6) Sadece Beren’e 3 üç ürün hediye etmiştir.
 
 Arkadaşlar ve hediyeler olarak iki gruba ayrılır. Ve dizi şeklinde tanımlanır.
+
 Semboller’e  {arkadaş}{sembol} şeklinde eklemeler yapılır ve olabilecek kombinasyonlar belirlenir.
+
 Daha sonra soruda belirtilen bilgi kazanımları eklenir.
+
 Ve en sonda bilgi kazanımları ile eşleşen semboller analiz edilerek kesin cevaplar görüntülenir.
+
 Bu çıkan sonuçlara göre sorular cevaplanmıştır.
 
 ![image](https://user-images.githubusercontent.com/56012686/201223343-47a0fc21-b3a8-4a01-bab6-1da590eb94dc.png)
